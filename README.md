@@ -21,9 +21,8 @@ VGG16_Self-driving_car.py 為原始專題程式碼
 # 想解決：
   1.模型過於龐大
   2.在Jetson Nano測試時，會有些許延遲問題
-  3.程式只在訓練完才顯示Loss變化，沒辦法即時顯示Loss及學習率變化圖
+  3.程式只在訓練完才顯示Loss變化，沒辦法即時顯示Loss變化圖
 
 # 所需技術：
-  1.Tensorflow
-  2.PyTorch
-  3.Matplotlib
+  1.深度學習
+  2.影像處理
