@@ -1,6 +1,6 @@
 ## 資工二A 411018248 吳典祐 Python 期末微專題
-VGG16_Self-driving_car.py 為原始程式碼
-Final_side_project.py 為本次實作修改後的程式碼
+- VGG16_Self-driving_car.py 為原始程式碼
+- Final_side_project.py 為本次實作修改後的程式碼
 
 ## 專題大綱
 VGG16_Self-driving_car.py 為原始專題程式碼
